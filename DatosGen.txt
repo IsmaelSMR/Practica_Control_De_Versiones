@@ -1,3 +1,4 @@
-Nombres: Oliver Sánchez
-Carrera: ISI
-Edad: 18
+Me gusta la programación debido a las infinitas posibilidades de resolver diferentes
+problematicas en un sin número de ámbitos, dejando explotar la imaginación y creatividad
+de los nosotros los programadores, de este modo evolucionamos nuestras formas de pensar
+y crear a medida evoluciona la tecnología.
