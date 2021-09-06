@@ -1,0 +1,3 @@
+Nombres: Oliver Sánchez
+Carrera: ISI
+Edad: 18
